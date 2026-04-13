@@ -7,9 +7,10 @@
 ### 👾 My Discord Status:
 <p align="left">
   <a href="https://discord.com/users/862273858214821929">
-    <img src="https://lanyard.wrapped.run/api/862273858214821929?theme=dark&bg=0d1117&borderRadius=10px&animated=true" alt="Discord Status" />
+    <img src="https://lanyard.wrapped.run/api/862273858214821929?theme=dark&bg=0d1117&borderRadius=10px&showVisualizer=true" alt="Discord Status" />
   </a>
 </p>
+
 
 ---
 
