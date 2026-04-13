@@ -1,65 +1,55 @@
 # Hi there, I'm _harblx! 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harblx&label=Profile%20views&color=0e75b6&style=flat" alt="harblx" />
+  <img src="https://komarev.com/ghpvc/?username=DNHA05&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
-### 👾 My Discord Profile:
-<p align="left">
+---
+
+### 👾 My Discord Profile
+<p align="center">
   <a href="https://discord.com/users/862273858214821929">
-    <img src="https://discord-card.vercel.app/api/profile/862273858214821929?theme=dark&bg=0d1117&badge=true" alt="Discord Card" />
+    <img src="https://discord-card.vercel.app/api/profile/862273858214821929?theme=dark&bg=0d1117&borderRadius=10" alt="Discord Card" />
   </a>
 </p>
-
-
-
----
-
-### 💫 About Me:
-- 🔭 I’m currently working on **Advanced Discord Bots** and **API Integrations**.
-- 🌱 I’m currently learning **Systems Architecture** and **Cloud Infrastructure**.
-- 🛠 I specialize in building **Automated Tools**, **Payment Systems (VietQR)**, and **Web Middleware**.
-- 🚀 Milestone: My bot has reached over **100+ servers**!
-- ⚡ Fun fact: I love bridging the gap between complex APIs and user-friendly Discord interfaces.
-
----
-
-### 🛠 Tech Stack:
-<p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/roblox_studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
-</p>
-
----
-
-### 📂 Projects Spotlight:
-- 💳 **Discord Payment System**: Automated top-up system with VietQR integration.
-- 🔗 **URL Bypass Tools**: Custom middleware solutions for handling link-shortener APIs.
-- 🎮 **Roblox Studio**: Environmental design and UI system experiments.
 
 ---
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harblx&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DNHA05&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harblx&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DNHA05&layout=compact&theme=tokyonight&border_radius=10&hide=html,css" alt="Top Langs" />
 </p>
 
 ---
 
-### 🤝 Connect with me:
+### 💫 About Me
+- 🔭 I’m currently working on **Advanced Discord Bots** & **API Integrations**.
+- 🛠 I specialize in building **Automated Tools**, **Payment Systems (VietQR)**.
+- 🚀 Milestone: My bot has reached over **100+ servers**!
+
+---
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
+
+---
+
+### 🤝 Connect with me
 <p align="left">
   <a href="https://discord.com/users/862273858214821929">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=_harblx" />
+  </a>
+  <a href="https://tiktok.com/@ha2.05">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 
