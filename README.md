@@ -1,32 +1,67 @@
-<div align="center">
+# Hi there, I'm _harblx! 👋
 
-<hr>
-  
-  [![Twitter](https://img.shields.io/badge/-@umrfyn_-313131?style=for-the-badge&labelColor=313131&logo=twitter&logoColor=white&color=1DA1F2)](https://x.com/umrfyn_)
-  [![Discord](https://img.shields.io/badge/-@umrfyn-313131?style=for-the-badge&labelColor=313131&logo=discord&logoColor=white&color=5865F2)](https://discord.com/users/862273858214821929)
-  [![YouTube](https://img.shields.io/badge/-@umrfyn-313131?style=for-the-badge&labelColor=313131&logo=youtube&logoColor=white&color=FF0000)](https://youtube.com/@umrfyn)
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harblx&label=Profile%20views&color=0e75b6&style=flat" alt="harblx" />
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/umrfyn/stats/master/generated/overview.svg#gh-dark-mode-only"/>
-  <img src="https://raw.githubusercontent.com/umrfyn/stats/master/generated/overview.svg#gh-light-mode-only"/>
-
-  <img src="https://raw.githubusercontent.com/umrfyn/stats/master/generated/languages.svg#gh-dark-mode-only"/>
-  <img src="https://raw.githubusercontent.com/umrfyn/stats/master/generated/languages.svg#gh-light-mode-only" />
-</div>
-
-
-<div align="center">
-  <img src="https://count.getloli.com/@4levy?name=4levy&theme=booru-touhoulat">
-</div>
+### 👾 My Discord Status:
+<p align="left">
+  <a href="https://discord.com/users/862273858214821929">
+    <img src="https://lanyard.wrapped.run/api/862273858214821929?theme=dark&bg=0d1117&borderRadius=10px&animated=true" alt="Discord Status" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+### 💫 About Me:
+- 🔭 I’m currently working on **Advanced Discord Bots** and **API Integrations**.
+- 🌱 I’m currently learning **Systems Architecture** and **Cloud Infrastructure**.
+- 🛠 I specialize in building **Automated Tools**, **Payment Systems (VietQR)**, and **Web Middleware**.
+- 🚀 Milestone: My bot has reached over **100+ servers**!
+- ⚡ Fun fact: I love bridging the gap between complex APIs and user-friendly Discord interfaces.
+
+---
+
+### 🛠 Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/roblox_studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
+</p>
+
+---
+
+### 📂 Projects Spotlight:
+- 💳 **Discord Payment System**: Automated top-up system with VietQR integration.
+- 🔗 **URL Bypass Tools**: Custom middleware solutions for handling link-shortener APIs.
+- 🎮 **Roblox Studio**: Environmental design and UI system experiments.
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harblx&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harblx&layout=compact&theme=tokyonight&hide=html" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harblx&theme=tokyonight" alt="harblx's streak" />
+</p>
+
+---
+
+### 🤝 Connect with me:
+<p align="left">
   <a href="https://discord.com/users/862273858214821929">
-    <img src="https://lanyard-profile-readme.vercel.app/api/874898422233178142?theme=light&bg=ce74ff&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Rest%20in%20peace%20^^">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=_harblx" />
   </a>
-</div>
+</p>
 
-
-</div>
+<p align="right">
+  <i>Last updated: April 2026</i>
+</p>
