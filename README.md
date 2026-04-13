@@ -4,12 +4,13 @@
   <img src="https://komarev.com/ghpvc/?username=harblx&label=Profile%20views&color=0e75b6&style=flat" alt="harblx" />
 </p>
 
-### 👾 My Discord Status:
+### 👾 My Discord Profile:
 <p align="left">
   <a href="https://discord.com/users/862273858214821929">
-    <img src="https://lanyard.wrapped.run/api/862273858214821929?theme=dark&bg=0d1117&borderRadius=10px&showVisualizer=true" alt="Discord Status" />
+    <img src="https://discord-card.vercel.app/api/profile/862273858214821929?theme=dark&bg=0d1117&badge=true" alt="Discord Card" />
   </a>
 </p>
+
 
 
 ---
